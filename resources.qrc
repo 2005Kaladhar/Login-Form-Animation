@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>proceedicon.png</file>
+    <file>TreeLogo.png</file>
+    <file>happyTree.png</file>
+    <file>circle-cropped.png</file>
+  </qresource>
+</RCC>
